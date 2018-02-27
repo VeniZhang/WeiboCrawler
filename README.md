@@ -5,6 +5,6 @@
 * selenium 3.9.0
 * chrome Version 64.0.3282.167 (Official Build) (64-bit)
 * chromedriver 2.35
-##注意
+## 注意
 * 当打开新窗口时，webdriver的当前默认窗口不会随着新窗口的打开而改变。
 * 当页面没有完全被加载时，可能会出现元素无法定位，需要等待页面被加载完毕。
